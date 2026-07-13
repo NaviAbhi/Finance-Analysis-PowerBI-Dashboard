@@ -1,14 +1,12 @@
-# 📊 Finance Analysis Power BI Dashboard
+ 📊 Finance Analysis Power BI Dashboard
 
-## 📌 Project Overview
+📌 Project Overview
 
 This project is an interactive **Finance Analysis Dashboard** developed using **Microsoft Power BI** to analyze financial transactions, customer behavior, transaction performance, and business KPIs.
 
 The dashboard enables business users to monitor financial performance through dynamic visualizations, KPI cards, slicers, drill-through reports, and DAX calculations.
 
----
-
-## 🎯 Business Problem
+🎯 Business Problem
 
 Financial organizations generate thousands of transactions every day. Manual reporting makes it difficult to monitor:
 
@@ -21,9 +19,7 @@ Financial organizations generate thousands of transactions every day. Manual rep
 
 This dashboard provides a centralized solution to monitor financial performance and support data-driven decision-making.
 
----
-
-# 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -32,9 +28,7 @@ This dashboard provides a centralized solution to monitor financial performance 
 - Data Modeling
 - Data Visualization
 
----
-
-# 📂 Dataset
+ 📂 Dataset
 
 The dataset contains financial transaction records including:
 
@@ -51,44 +45,40 @@ The dataset contains financial transaction records including:
 - Fees
 - Tax
 
----
+ 📈 Dashboard Features
 
-# 📈 Dashboard Features
+ Overview Analysis Page
 
-### Overview Analysis Page
+ Total Amount KPI
 
-✔ Total Amount KPI
+ Total Transactions KPI
 
-✔ Total Transactions KPI
+ Average Transaction Value
 
-✔ Average Transaction Value
+ Total Fees
 
-✔ Total Fees
+ Total Tax
 
-✔ Total Tax
+ Month-wise Revenue Trend
 
-✔ Month-wise Revenue Trend
+ Transaction Status Analysis
 
-✔ Transaction Status Analysis
+ Customer Segment Analysis
 
-✔ Customer Segment Analysis
+ State-wise Revenue Analysis
 
-✔ State-wise Revenue Analysis
+ Transaction Type Analysis
 
-✔ Transaction Type Analysis
+ Gender-wise Analysis
 
-✔ Gender-wise Analysis
-
-✔ Dynamic Filters
+ Dynamic Filters
 
 - Year
 - Dynamic Metric
 - Occupation
 - Category
 
----
-
-### Transactions Page
+ Transactions Page
 
 Detailed transaction-level report including:
 
@@ -105,9 +95,7 @@ Detailed transaction-level report including:
 
 Supports detailed business investigation using interactive filtering.
 
----
-
-# 📊 Key KPIs
+ 📊 Key KPIs
 
 - Total Amount
 - Total Transactions
@@ -120,29 +108,7 @@ Supports detailed business investigation using interactive filtering.
 - Customer Segmentation
 - Transaction Success Rate
 
----
-
-# 📷 Dashboard Preview
-
-## Overview Dashboard
-
-![Overview](Overview%20Analysis.png)
-
----
-
-## Dashboard View
-
-![Dashboard](Power%20BI%20Dashboard.png)
-
----
-
-## Transactions Report
-
-![Transactions](Transactions.png)
-
----
-
-# 💡 Business Insights
+💡 Business Insights
 
 - Retail customers contribute the highest transaction amount.
 - Maharashtra generates the highest revenue among all states.
@@ -152,11 +118,9 @@ Supports detailed business investigation using interactive filtering.
 - Gender-based analysis provides customer distribution insights.
 - Interactive filters allow users to perform dynamic business analysis.
 
----
 
-# 📁 Repository Structure
+ 📁 Repository Structure
 
-```
 Finance-Analysis-PowerBI-Dashboard
 │
 ├── Finance Dashboard.pbix
@@ -165,11 +129,9 @@ Finance-Analysis-PowerBI-Dashboard
 ├── Power BI Dashboard.png
 ├── Transactions.png
 └── README.md
-```
 
----
 
-# 🚀 Skills Demonstrated
+ 🚀 Skills Demonstrated
 
 - Power BI Dashboard Development
 - Data Cleaning using Power Query
@@ -182,18 +144,4 @@ Finance-Analysis-PowerBI-Dashboard
 - Financial Analytics
 - Data Visualization
 
----
 
-# 👨‍💻 Author
-
-**Naveen MK**
-
-**Lead MIS & Data Analyst**
-
-### Skills
-
-Power BI | SQL | Advanced Excel | Python | Tableau | DAX | Power Query | VBA | Business Intelligence
-
----
-
-## ⭐ If you found this project useful, please consider giving it a Star.
