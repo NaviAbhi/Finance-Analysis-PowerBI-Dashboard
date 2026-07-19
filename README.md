@@ -143,5 +143,14 @@ Finance-Analysis-PowerBI-Dashboard
 - Business Intelligence
 - Financial Analytics
 - Data Visualization
+  
+👨‍💻 Author
 
+**Naveena MK**
+
+- Data Analyst | Power BI | Python | SQL | Machine Learning
+- GitHub:https://github.com/NaviAbhi
+- LinkedIn:https://www.linkedin.com/in/naveen-dataanalyst/
+
+⭐ If you found this project useful, please consider giving it a Star.
 
